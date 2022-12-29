@@ -20,7 +20,7 @@ Nibiru bot for check status and management server
       <code>nibiru-bot ALL = NOPASSWD: systemctl restart nibiru-botd.service, systemctl restart nibirud.service</code>
 
       at the end of file 
-    - <code>su - okp4-bot</code>
+    - <code>su - nibiru-bot</code>
     - <code>wget https://gist.github.com/InViZz/e2c01ed3195b6f57d8c576e163fb171a/raw -O nibiru-bot-install.sh && chmod +x ./nibiru-bot-install.sh</code>
     - <code>./nibiru-bot-install.sh <TELEGRAM_TOKEN></code>
     - That's all =)
